@@ -1,4 +1,8 @@
 # Website bán sách
+## Công nghệ sử dụng
+- Front-end: HTML, CSS, Boostrap 5, Javascript
+- Back-end: PHP
+- Database: MySQL
 ## Cài đặt
 1. **Cài đặt server host như Xampp, WAMP, ...**
 2. **Import `sql file` trong thư mục `Database`**
@@ -42,6 +46,8 @@
 - Username: Admin
 - Password: 123
 ## Hình ảnh
+- Sơ đồ database
+![ScreenShot](screenshot/Screenshot%202024-08-11%20220140.png)
 - Trang chủ
 ![ScreenShot](screenshot/Screenshot%202024-08-11%20202447.png)
 ![ScreenShot](screenshot/Screenshot%202024-08-11%20205052.png)
