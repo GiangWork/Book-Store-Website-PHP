@@ -151,7 +151,7 @@
                         </div>
                         <div class="col-md-6 text-center">
                             <i class="fa-solid fa-envelope"></i>
-                            nhoxphuc101@gmail.com
+                            giangdoingwork@gmail.com
                         </div>
                     </div>
                 </div>
@@ -160,19 +160,19 @@
                 <div class="col-sm-4 col-md-3 col-lg-3 text-center">
                     <h2 style="color: #D67B22;">Theo dõi chúng tôi tại</h2>
                     <div style="margin-top: 20px">
-                        <a href="https://www.facebook.com/nhoxphuc101">
+                        <a href="#">
                             <img title="Twitter" alt="Twitter" src="img/icons/twitter.png" width="35" height="35" />
                         </a>
-                        <a href="https://www.facebook.com/nhoxphuc101">
+                        <a href="#">
                             <img title="LinkedIn" alt="LinkedIn" src="img/icons/linkedin.png" width="35" height="35" />
                         </a>
-                        <a href="https://www.facebook.com/nhoxphuc101">
+                        <a href="#">
                             <img title="Facebook" alt="Facebook" src="img/icons/facebook.png" width="35" height="35" />
                         </a>
-                        <a href="https://www.facebook.com/nhoxphuc101">
+                        <a href="#">
                             <img title="google+" alt="google+" src="img/icons/google.jpg" width="35" height="35" />
                         </a>
-                        <a href="https://www.facebook.com/nhoxphuc101">
+                        <a href="#">
                             <img title="Pinterest" alt="Pinterest" src="img/icons/pinterest.jpg" width="35"
                                 height="35" />
                         </a>
