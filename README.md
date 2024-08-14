@@ -5,6 +5,7 @@
 - Database: MySQL
 ## Cài đặt
 1. **Cài đặt server host như Xampp, WAMP, ...**
+2. **Bỏ thư mục `BookStore` vào đường dẫn `xampp\htdocs` nếu dùng Xampp**
 2. **Import `sql file` trong thư mục `Database`**
 3. **Chỉnh sửa file `dbconnect.php`**
     ```php
@@ -29,6 +30,8 @@
             }
     ?>
     ```
+4. **Chạy server rồi nhập URL `http://localhost:8081/BookStore/home_page.php` vào thanh địa chỉ tìm kiếm của browser**
+5. **Địa chỉ vào trang admin `http://localhost:8081/BookStore/admin.php`**
 ## Tính năng
 ### Admin
 - Thể loại (Thêm, sửa, xoá)
